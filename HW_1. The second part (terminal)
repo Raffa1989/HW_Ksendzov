@@ -5,7 +5,7 @@ mkdir dir_1
 2. Зайти в папку dir_1
 ```bash
 cd dir_1
-```
+
 3. Создать папку inner_dir_1
 ```bash
 mkdir inner_dir_1
