@@ -1,3 +1,5 @@
+Окружение MAC OC
+
 1. Сделать папку dir_1
 ```bash
 mkdir dir_1
